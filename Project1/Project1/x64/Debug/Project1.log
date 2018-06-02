@@ -1,0 +1,4 @@
+﻿  text.cpp
+f:\ztword\c++\project1\project1\text.cpp(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+f:\ztword\c++\project1\project1\text.cpp(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  Project1.vcxproj -> F:\ztword\c++\Project1\x64\Debug\Project1.exe
